@@ -13,13 +13,18 @@ Notification infrastructure is a developer tool or platform that delivers alerts
 * [pusher.com](https://pusher.com) - Realtime messaging service.
 * [pubnub.com](https://pubnub.com) - Swift, Kotlin, and React messaging at 1 million transactions each month. Transactions may contain multiple messages.
 
-## Push notification APIs
-* [firebase.google.com](https://firebase.google.com) - Cross-platform messaging solution that lets you reliably send messages at no cost.
-* [pushengage.com](https://pushengage.com) - The #1 push notification platform for web and mobile devices
-
 ## Marketing Communication Providers
 * [braze.com](https://braze.com) - Cross-channel customer engagement platform
 * [customer.io](https://customer.io) - Personalised marketing automation platform
 * [onesignal.com](https://onesignal.com) - Unlimited free push notifications. Supports email.
 * [pushwoosh.com](https://pushwoosh.com) - Omnichannel customer engagement platform
+
+## Push notification APIs
+* [firebase.google.com](https://firebase.google.com) - Cross-platform messaging solution that lets you reliably send messages at no cost.
+* [pushengage.com](https://pushengage.com) - The #1 push notification platform for web and mobile devices
+
+## Email APIs
+* [mailgun.com](https://mailgun.com) - Transactional Email APIs that enable you to send, receive, and track emails.
+* [resend.com](https://resend.com) - The most developer friendly email API
+* [sendgrid.com](https://sendgrid.com) - API to send both transactional and marketing emails.
   
