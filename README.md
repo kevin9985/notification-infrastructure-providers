@@ -30,4 +30,7 @@ Notification infrastructure is a developer tool or platform that delivers alerts
 * [mailgun.com](https://mailgun.com) - Transactional Email APIs that enable you to send, receive, and track emails.
 * [resend.com](https://resend.com) - The most developer friendly email API
 * [sendgrid.com](https://sendgrid.com) - API to send both transactional and marketing emails.
-  
+
+## AMQP Providers
+* [cloudamqp.com](https://www.cloudamqp.com) - The largest fleet of RabbitMQ and LavinMQ clusters worldwide
+* [aws.amazon.com/amazon-mq](https://aws.amazon.com/amazon-mq/) - Managed message broker service for Apache ActiveMQ and RabbitMQ on AWS.
