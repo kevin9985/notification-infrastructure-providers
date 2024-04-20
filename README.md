@@ -22,6 +22,10 @@ Notification infrastructure is a developer tool or platform that delivers alerts
 * [firebase.google.com](https://firebase.google.com) - Cross-platform messaging solution that lets you reliably send messages at no cost.
 * [pushengage.com](https://pushengage.com) - The #1 push notification platform for web and mobile devices
 
+## Chat APIs
+* [comechat.com](https://cometchat.com) - Build real time chat, voice and video calling experience with CometChat's flexible SDKs, APIs & UI Kits.
+* [sendbird.com](https://sendbird.com) - Messaging-as-a-service API that provides chat, voice, and video messaging for mobile apps and websites.
+
 ## Email APIs
 * [mailgun.com](https://mailgun.com) - Transactional Email APIs that enable you to send, receive, and track emails.
 * [resend.com](https://resend.com) - The most developer friendly email API
