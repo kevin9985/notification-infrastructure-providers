@@ -6,6 +6,7 @@ Notification infrastructure is a developer tool or platform that delivers alerts
 * [engagespot.co](https://engagespot.co) - Multi-channel notification infrastructure for developers with a prebuilt in-app inbox and no-code template editor.
 * [knock.app](https://knock.app) - Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. 
 * [novu.com](https://novu.com) - The open-source notification infrastructure for developers for managing all communication channels in one place: Email, SMS, Direct, In-App and Push.
+* [suprsend.com](https://suprsend.com) - Notification service for multi-channel with multi-tenancy, pre-built preference center, pre-built inapp inbox, smart channel routing, webhooks and more.
 
 ## Realtime API Providers
 * [ably.com](https://ably.com) - Realtime messaging service with presence, persistence and guaranteed delivery.
