@@ -2,6 +2,7 @@
 Notification infrastructure is a developer tool or platform that delivers alerts, messages, and user notifications. Here, I'll list different notification infrastructure providers for developers that suits various purposes. I want to make sure we list providers who support API integrations so developers can integrate them with their apps.
 
 ## Notification Infrastructure Platforms
+* [chimely.dev](https://chimely.dev) - Open-source, self-hostable in-app notification inbox infrastructure (Rust + Postgres + Redis) with a prebuilt drop-in <Inbox /> React component.
 * [courier.com](https://courier.com) - Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features.
 * [engagespot.co](https://engagespot.co) - Multi-channel notification infrastructure for developers with a prebuilt in-app inbox and no-code template editor.
 * [knock.app](https://knock.app) - Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. 
